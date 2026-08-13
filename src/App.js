@@ -4,7 +4,7 @@ function App(props){
     console.dir(props);
     return (
         <>
-        <h1>Karthika J</h1>
+        <h1>Karthika Jonnalagadda</h1>
         <p style={{display:'flex',padding:20}}>{props.children}</p>
         </>
     )
